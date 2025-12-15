@@ -30,6 +30,8 @@ This project focuses on **building an efficient, lightweight deep learning syste
 ### Files:
 - [A] EDA.ipynb - Performed and carried out all the Data Preprocessing and EDA steps
 - [B] Model.ipynb - Trained the Model from scratch
+- [C] Custom CNN Model (.h5 file) : https://drive.google.com/file/d/1m_bjUGG84mQhAyTrXZuFVjufv2bRMWCi/view?usp=sharing
+- [D] ResNet50 Model (.h5 file): https://drive.google.com/file/d/1aED7_O9J9_xziqq9DGMA2ihYeZGfJF8u/view?usp=sharing
 
 ### Data Preparation Steps
 - Folder-based image structuring
