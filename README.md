@@ -32,8 +32,8 @@ This project focuses on **building an efficient, lightweight deep learning syste
 - [B] Model_Brain_Tumor_Detection_Omkar.ipynb - Trained the Model from scratch
 - [C] Custom CNN Model (.h5 file) : https://drive.google.com/file/d/1m_bjUGG84mQhAyTrXZuFVjufv2bRMWCi/view?usp=sharing
 - [D] ResNet50 Model (.h5 file): https://drive.google.com/file/d/1aED7_O9J9_xziqq9DGMA2ihYeZGfJF8u/view?usp=sharing
-- [E] Brain_Tumor_Detection_Report
-- [F] Brain_Tumor_Detection_Presentation 
+- [E] Report_Brain_Tumor_Detection.pdf
+- [F] Presentation_Brain_Tumor_Detection.pdf
 
 ### Data Preparation Steps
 - Folder-based image structuring
